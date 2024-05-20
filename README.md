@@ -25,10 +25,9 @@ I had the opportunity to lead the development of the Veterinary Management modul
 5. Run the application using `npm start`.
 ## Screenshots
 
-    <p align="center">
+    
    ![WhatsApp Image 2024-05-20 at 10 26 08](https://github.com/Duvini/Dairy-farm-management-system/assets/121706197/b3ed0933-1d61-4c18-a7f3-bc31be0965cd)
 
-    </p>
 <details>
       <summary>Click to view more screenshots</summary>
 
