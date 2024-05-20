@@ -33,11 +33,8 @@ I had the opportunity to lead the development of the Veterinary Management modul
       <summary>Click to view more screenshots</summary>
 
       <p align="center">
-      ![WhatsApp Image 2024-05-20 at 10 26 18](https://github.com/Duvini/Dairy-farm-management-system/assets/121706197/e82d500d-4087-45ea-97e8-5bbdc2af0a53)
-      ![WhatsApp Image 2024-05-20 at 10 26 25](https://github.com/Duvini/Dairy-farm-management-system/assets/121706197/b0c2dfa0-3a22-4e15-93b3-c3eaf6a7f31b)
-      ![WhatsApp Image 2024-05-20 at 10 26 34](https://github.com/Duvini/Dairy-farm-management-system/assets/121706197/846b6a4d-904e-4dc8-a91d-b17f5c0c613b)
-      ![WhatsApp Image 2024-05-20 at 10 26 43](https://github.com/Duvini/Dairy-farm-management-system/assets/121706197/8d689fd6-0b5a-4c03-a5ad-e1beedc56db0)
-      ![WhatsApp Image 2024-05-20 at 10 26 56](https://github.com/Duvini/Dairy-farm-management-system/assets/121706197/e4427084-56fc-41c9-a798-6af903bb1533)
+![WhatsApp Image 2024-05-20 at 10 26 18](https://github.com/Duvini/Dairy-farm-management-system/assets/121706197/4db0a718-fec3-4d58-a5bf-0f75f9120c87)
+![WhatsApp Image 2024-05-20 at 10 26 25](https://github.com/Duvini/Dairy-farm-management-system/assets/121706197/4ebf3566-39f6-489b-8584-f21192e11781)
 ![WhatsApp Image 2024-05-20 at 10 27 05](https://github.com/Duvini/Dairy-farm-management-system/assets/121706197/51d11097-81f5-4494-8f46-4caf18e3decf)
 ![WhatsApp Image 2024-05-20 at 10 27 18](https://github.com/Duvini/Dairy-farm-management-system/assets/121706197/f7748936-b5d7-43d4-bbc1-183298a0d198)
 ![WhatsApp Image 2024-05-20 at 10 27 26](https://github.com/Duvini/Dairy-farm-management-system/assets/121706197/48a9fcd1-3f4c-40bd-b1c0-4460fbb7fd1a)
